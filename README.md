@@ -14,11 +14,11 @@
   - Excel, powerBI.
     
 ## 🧱 Dashboard Architecture
-  - Overview dashboard: Executive-level overview consolidating key insights from recruitment, workforce, retention, and attrition for holistic decision-making.
-  - Recruitment Dashboard: Analyzes hiring funnel, recruitment channels, quality of hire to evaluate, optimize recruitment performance,...
-  - Attrition Dashboard: Monitors attrition trends, patterns, and drivers to understand employee turnover and workforce stability.
-  - Workforce Detail Dashboard: Provides detailed employee-level insights across roles, tenure, compensation, performance, and demographics.
-  - Retention Dashboard: Identifies high-risk employees, key attrition drivers, and targeted retention actions with estimated cost impact.
+  - **Overview dashboard**: Executive-level overview consolidating key insights from recruitment, workforce, retention, and attrition for holistic decision-making.
+  - **Recruitment Dashboard**: Analyzes hiring funnel, recruitment channels, quality of hire to evaluate, optimize recruitment performance,...
+  - **Attrition Dashboard**: Monitors attrition trends, patterns, and drivers to understand employee turnover and workforce stability.
+  - **Workforce Detail Dashboard**: Provides detailed employee-level insights across roles, tenure, compensation, performance, and demographics.
+  - **Retention Dashboard**: Identifies high-risk employees, key attrition drivers, and targeted retention actions with estimated cost impact.
 
 ## 🧠 Scenario
   - The client engaged the consultant to support the digital transformation of HR reporting, transitioning from Excel-based workflows to a Power BI–driven analytics solution. The initial engagement was defined as a fixed-scope BI package, covering the design and delivery of 5 dashboards: **Overview, Recruitment, Workforce Detail, Retention, and Attrition**.
