@@ -19,7 +19,7 @@
   - **Attrition Dashboard**: Monitors attrition trends, patterns, and drivers to understand employee turnover and workforce stability.
   - **Workforce Detail Dashboard**: Provides detailed employee-level insights across roles, tenure, compensation, performance, and demographics.
   - **Retention Dashboard**: Identifies high-risk employees, key attrition drivers, and targeted retention actions with estimated cost impact.
-
+==> **Link Dashboard:** https://app.powerbi.com/view?r=eyJrIjoiOGUxNTdlZDktZjAxOC00MjY3LTg0OWUtYzA2MmVhMjFiY2M5IiwidCI6IjE1NGI1MGRhLTAxMTItNDYwNy05MTUxLThlNGY3MGNmMmYwNyIsImMiOjEwfQ%3D%3D
 ## 🧠 Scenario
   - The client engaged the consultant to support the digital transformation of HR reporting, transitioning from Excel-based workflows to a Power BI–driven analytics solution. The initial engagement was defined as a fixed-scope BI package, covering the design and delivery of 5 dashboards: **Overview, Recruitment, Workforce Detail, Retention, and Attrition**.
   - The agreed project fee for the BI package was **USD 5,000**, with a delivery timeline of **3–4 weeks**. The scope focused on delivering a functional BI framework and demo solution, including dashboard design, KPI definitions, a reusable Power BI template, and supporting documentation.
